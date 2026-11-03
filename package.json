@@ -1,0 +1,1 @@
+{"name":"e-sthetic-privatklinik","version":"1.0.0","private":true,"description":"Professioneller Webauftritt für die e-sthetic Privatklinik in Essen","scripts":{"dev":"python3 -m http.server 4173 --directory dist","check":"node --check dist/app.js","build":"node --check dist/app.js"}}

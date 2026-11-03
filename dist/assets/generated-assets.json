@@ -1,0 +1,9 @@
+{
+  "hero": "hero-portrait.webp",
+  "body": "body-editorial.webp",
+  "provider": "OpenAI Imagegen",
+  "purpose": "Editorial symbolic imagery, not patients or treatment results",
+  "logo": "logo-sharp.png",
+  "logoSource": "User-supplied e-sthetic logo, restored for the website",
+  "date": "2026-11-03"
+}
